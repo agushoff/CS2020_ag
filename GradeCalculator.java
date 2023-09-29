@@ -1,5 +1,6 @@
 public class GradeCalculator{
     public static void main(String[] args){
+        //change
         int maxscore = 100;
         int bestehensgrenze = 50;
         int score = 74;
